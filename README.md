@@ -1,2 +1,2 @@
 # Mi primer README
-Repository for practicing git commands
+Repositorio de practicas de comandos git
